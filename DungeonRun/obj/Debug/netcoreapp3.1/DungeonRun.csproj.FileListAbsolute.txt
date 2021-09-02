@@ -1,0 +1,14 @@
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\bin\Debug\netcoreapp3.1\DungeonRun.exe
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\bin\Debug\netcoreapp3.1\DungeonRun.deps.json
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\bin\Debug\netcoreapp3.1\DungeonRun.runtimeconfig.json
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\bin\Debug\netcoreapp3.1\DungeonRun.runtimeconfig.dev.json
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\bin\Debug\netcoreapp3.1\DungeonRun.dll
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\bin\Debug\netcoreapp3.1\DungeonRun.pdb
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.csproj.AssemblyReference.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.AssemblyInfoInputs.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.AssemblyInfo.cs
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.csproj.CoreCompileInputs.cache
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.dll
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.pdb
+C:\Users\Allen\Desktop\CSharp\CSharp\DungeonRun\DungeonRun\obj\Debug\netcoreapp3.1\DungeonRun.genruntimeconfig.cache

@@ -58,6 +58,7 @@ namespace DungeonRun
 
                 else if (input.ToLower() == "h" || input.ToLower() == "heal")
                 { 
+                    //Heal
                 }
             }
 
